@@ -1,0 +1,40 @@
+h1 {
+    
+    color: white;
+    font-family: 'Arizonia', cursive;  
+    font-size: 100px;  
+}
+
+h2 {
+    font-size: 36px;
+    font-family: 'Oxygen', sans-serif;
+}
+
+div {
+    background-color: white;
+    padding-top: 40x;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 85px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(100, 100, 100);
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+body{
+    background-color: rgb(39, 30, 24);
+}
+
+.img1{
+        float: right;
+        margin: 10px;
+}
+
+table {
+    float: right;
+    margin-right: 60px;
+}

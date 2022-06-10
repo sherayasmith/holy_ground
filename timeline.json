@@ -1,0 +1,28 @@
+{
+    "title": {
+        "text": {
+            "headline": "Camp Rivervale (Bishop Roberts Park)",
+            "text": "<p>Camp Rivervale was one of the \"Big Three\" of the 12 camps."
+        }
+    },
+    "events": [
+        {
+            "start_date": {
+                "year": "1921"
+            },
+            "text": {
+                "headline": "Beginnings",
+                "text": "<p>Plans for Camp Rivervale begin"
+            }
+        }, 
+        {
+            "start_date": {
+                "year": "1922"
+            },
+            "text": {
+                "headline": "Headway",
+                "text": "<p>Campgrounds purchased"
+            }  
+        }
+    ]
+}
